@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/MrKioZ/python-mineflayer#readme",
   "dependencies": {
-    "mineflayer": "^2.40.1"
+    "mineflayer": "^2.40.1",
+    "yargs": "^16.2.0"
   }
 }
