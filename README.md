@@ -1,5 +1,5 @@
 # python-mineflayer
-A python wrapper mineflayer node package
+A python wrapper mineflayer node package based on websockets
 
 ## Usage
 ```py
@@ -14,4 +14,4 @@ bot = mineflayer.Bot(**{
 ```
 
 ## License
-This source code is under MIT license
+This source code is under [MIT](https://github.com/MrKioZ/python-mineflayer/blob/master/LICENSE) license
