@@ -13,4 +13,3 @@ const bot = mineflayer.createBot({
     port: port,       // optional
     version: "1.16.4", // version
 })
-

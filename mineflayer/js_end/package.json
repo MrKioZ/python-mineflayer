@@ -1,0 +1,28 @@
+{
+  "name": "python-mineflayer",
+  "version": "1.0.0",
+  "description": "a javascript end for mineflayer package of nodejsw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKioZ/python-mineflayer.git"
+  },
+  "keywords": [
+    "mineflayer",
+    "python",
+    "nodejs",
+    "minecraft"
+  ],
+  "author": "Adam Sherif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrKioZ/python-mineflayer/issues"
+  },
+  "homepage": "https://github.com/MrKioZ/python-mineflayer#readme",
+  "dependencies": {
+    "mineflayer": "^2.40.1"
+  }
+}
